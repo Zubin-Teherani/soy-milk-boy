@@ -1,1 +1,1 @@
-web: jekyll build
+web: jekyll exec jekyll serve
