@@ -1,1 +1,1 @@
-web: jekyll exec jekyll serve
+console: jekyll exec jekyll serve
