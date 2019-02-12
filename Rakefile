@@ -1,3 +1,3 @@
-task "assets:precompile" do
-  exec("jekyll build")
-end
+# task "assets:precompile" do
+#   exec("jekyll build")
+# end
