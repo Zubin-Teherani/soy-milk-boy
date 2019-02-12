@@ -4,4 +4,4 @@
 
 layout: home
 ---
-![Soy Milk Boys.png](/assets/Soy Milk Boys.png)
+![Soy Milk Boys.png](/assets/soy-milk.png)
